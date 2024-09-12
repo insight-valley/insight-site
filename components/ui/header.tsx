@@ -45,7 +45,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="/"
+                  href="https://tally.so/r/3EDbbr"
                   className="ml-3 text-white bg-pink-200 btn-sm hover:bg-pink-100"
                 >
                   Contato

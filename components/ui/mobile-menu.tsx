@@ -98,7 +98,7 @@ export default function MobileMenu() {
           </li>
           <li>
             <Link
-              href="/"
+              href="https://tally.so/r/3EDbbr"
               className="inline-flex items-center justify-center w-full px-4 py-2 my-2 font-medium text-white transition duration-150 ease-in-out bg-pink-200 border border-transparent rounded-sm hover:bg-pink-100"
               onClick={() => setMobileNavOpen(false)}
             >

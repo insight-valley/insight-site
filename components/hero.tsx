@@ -62,7 +62,7 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="w-full mb-4 text-white bg-pink-200 btn-sm hover:bg-pink-100 sm:w-auto sm:mb-0"
-                  href="#0"
+                  href="https://tally.so/r/3EDbbr"
                 >
                   Quero revolucionar meu negócio
                 </a>

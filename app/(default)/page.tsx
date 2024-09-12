@@ -1,8 +1,7 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "Insight Valley",
+  description: "O lugar onde suas ideias se tornam realidade",
 };
-
 import Hero from "@/components/hero";
 import Features from "@/components/features";
 import Newsletter from "@/components/newsletter";

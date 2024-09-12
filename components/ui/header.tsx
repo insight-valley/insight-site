@@ -32,7 +32,7 @@ export default function Header() {
                   href="/"
                   className="flex items-center px-4 py-3 font-medium text-purple-100 transition duration-150 ease-in-out hover:text-purple-800"
                 >
-                  Automação
+                  Automação & IA
                 </Link>
               </li>
               <li>

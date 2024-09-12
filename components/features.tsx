@@ -102,8 +102,8 @@ export default function Features() {
               <h4 className="mb-2 h4">Poucos e Bons Clientes</h4>
               <p className="text-lg text-center text-gray-400">
                 Nossa visão é de termos poucos e bons clientes. Sabemos que a
-                escala tras desafios que muitas vezes comprometem a qualidade da
-                entrega. Quem está conosco, tem o nossa atenção e cuidado.
+                escala traz desafios que muitas vezes comprometem a qualidade da
+                entrega. Quem está conosco, tem a nossa atenção e cuidado.
               </p>
             </div>
 
@@ -151,10 +151,10 @@ export default function Features() {
                   />
                 </g>
               </svg>
-              <h4 className="mb-2 h4">Qualidade é Inegociavel</h4>
+              <h4 className="mb-2 h4">Qualidade é Inegociável</h4>
               <p className="text-lg text-center text-gray-400">
                 Podemos adaptar, tempo, valor, possibilidades. Mas a qualidade
-                para nós é sempre a prioridade
+                para nós é sempre a prioridade.
               </p>
             </div>
 

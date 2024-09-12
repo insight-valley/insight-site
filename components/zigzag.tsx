@@ -135,8 +135,8 @@ export default function Zigzag() {
                   </h3>
                   <p className="mb-4 text-xl text-gray-400">
                     Sabemos que muitas empresas querem e usam computação em
-                    nuvem. Mas sabemos com nossa experiencia que essa é uma
-                    tarefa complexa e tras consigo grandes custos.
+                    nuvem. Mas sabemos com nossa experiência que essa é uma
+                    tarefa complexa e traz consigo grandes custos.
                   </p>
                   <ul className="-mb-2 text-lg text-gray-400">
                     <li className="flex items-center mb-2">
@@ -204,9 +204,9 @@ export default function Zigzag() {
                     Inteligência Artificial, aplicada a realidade
                   </h3>
                   <p className="mb-4 text-xl text-gray-400">
-                    Vivemos em busca as melhores ferramentas e sabemos o
+                    Vivemos em busca das melhores ferramentas e sabemos o
                     potencial que existe na aplicação de IA nos negócios,
-                    entendemos cada caso de uso, para potencializa-lo 10x mais,
+                    entendemos cada caso de uso, para potencializá-lo 10x mais,
                     com Inteligência Artificial.
                   </p>
                   <ul className="-mb-2 text-lg text-gray-400">

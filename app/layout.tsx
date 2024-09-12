@@ -1,9 +1,10 @@
 import "./css/style.css";
 
 import { Inter, Architects_Daughter } from "next/font/google";
-
+import { Metadata } from "next";
 import Header from "@/components/ui/header";
 import Metrics from "./metrics";
+import { OPEN_GRAPH, SITE_DESCRIPTION, SITE_TITLE } from "@/lib/constants";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -18,9 +19,10 @@ const architects_daughter = Architects_Daughter({
   display: "swap",
 });
 
-export const metadata = {
-  title: "Insight Valley",
-  description: "O lugar onde suas ideias se tornam realidade",
+export const metadata: Metadata = {
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  openGraph: OPEN_GRAPH,
 };
 
 export default function RootLayout({
